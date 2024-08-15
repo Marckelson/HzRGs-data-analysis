@@ -1,4 +1,4 @@
-# GALAXY
+# High Redshift Radio Galaxies
 
 This repository contains a collection of codes developed during my PhD in astronomy.
 
