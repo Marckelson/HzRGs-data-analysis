@@ -1,4 +1,4 @@
-# High Redshift Radio Galaxies
+# High Redshift Radio Galaxies Data Analysis
 
 This repository contains a collection of codes developed during my PhD in astronomy.
 
